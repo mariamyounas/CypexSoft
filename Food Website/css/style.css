@@ -1,0 +1,59 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: rgb(245, 228, 234);
+}
+.link {
+  text-decoration: none;
+  color: inherit;
+  padding: 10px;
+}
+.link:hover {
+  color: inherit;
+  border-bottom: 1px solid black;
+}
+
+.shop-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.shop-link:hover {
+  color: inherit;
+}
+
+i {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+}
+
+.brand:hover {
+  border-bottom: 0px;
+}
+
+.footer1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-brand {
+  color: rgb(231, 147, 176);
+}
+.footer-brand:hover {
+  color: rgb(231, 158, 184);
+}
+
+.contact-icons div {
+  float: left;
+}
+
+.contact-button {
+  background-color: rgb(231, 147, 176);
+  color: white;
+}
+.contact-button:hover {
+  background-color: rgb(235, 167, 191);
+  border: 1px solid rgb(235, 167, 191);
+  color: white;
+}
